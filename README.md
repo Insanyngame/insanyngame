@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Insanyngame
 
 <!--
 **Insanyngame/insanyngame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a extremely new programmer to the society, began to learn c++ on March, 2020.
+Currently, I'm learning JavaScipt by using the (Eloquent Javascript)[https://https://eloquentjavascript.net] guide, that a friend introduced me.
+
+I have a dream to become a really professional programmer, and every day that passes, I feel my dram being accomplished a little bit.
+
+Thanks for reading! Hope you a good day!

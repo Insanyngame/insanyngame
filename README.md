@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an average programmer that began to learn c++ on March, 2020.
+I'm a programmer that began to learn c++ on March, 2020, for Competitive programming and JS during covid pandemic, for making some projects.
 Currently I program Discord Bots(with JS), websites and games(with HTML, CSS and JS).
-
-I have a dream to become a really professional programmer, and every day that passes, I feel my dram being accomplished a little bit.
 
 Thanks for reading! Hope you a good day!
 
-Contact me on Discord: Insanyngame#5040
+Contact me on Discord: Insanyngame
+
+Quicknote: My website might be outdated, I will update it soon!
